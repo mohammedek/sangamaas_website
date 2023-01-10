@@ -94,6 +94,7 @@ ol,
 ul,
 dl {
   margin-top: 0;
+  margin-right: 0.9rem;
   margin-bottom: 1rem; }
 
 ol ol,
@@ -6799,7 +6800,7 @@ button.bg-dark:focus {
 
 .ml-2,
 .mx-2 {
-  margin-left: 0.5rem !important; }
+  margin-left: -0.8rem; }
 
 .m-3 {
   margin: 1rem !important; }
@@ -8200,6 +8201,7 @@ button.bg-dark:focus {
   font-style: italic !important; }
 
 .text-white {
+  line-height: 2.6;
   color: #fff !important; }
 
 .text-primary {
