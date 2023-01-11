@@ -8,10 +8,27 @@
     }
 
     .margin-t-80 {
-        margin-top: 80px !important;
+        margin-top: 80px !important ;
     }
+
+    .gallery-card {
+        height: 450px !important;
+        min-height: 450px !important;
+    }
+    .small-gallery-card{
+        height: 510px !important;
+    }
+
 }
 
 html {
     scroll-behavior: smooth !important;
+  }
+
+  .header-logo{
+    max-width: 30% !important;
+  }
+
+  .hero-bg-img{
+    background-image: url('/images/hero_bg.jpeg') !important;
   }
