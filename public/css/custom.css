@@ -34,3 +34,8 @@ html {
   }
 
 
+  @media (max-width: 767px) {                  
+    .content-to-hide {
+       display: none;
+    }
+ }
